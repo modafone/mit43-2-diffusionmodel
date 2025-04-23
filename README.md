@@ -3,3 +3,4 @@
 特集原稿の中で紹介した，Diffusion Modelの実装例のJupyter Notebookファイルです．
 
 [diffusionmodel_train.ipynb](https://github.com/modafone/mit43-2-dm/blob/main/diffusionmodel_train.ipynb)
+コードを実行するにはJupyter Notebookファイルをダウンロードし，Google Colaboratoryなどの実行環境で実行してください．
